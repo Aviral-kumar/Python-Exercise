@@ -1,4 +1,4 @@
-# Exercise 4
+# Exercise 3
 print("You will get 9 guesses to answer correctly, Good luck\n")
 g = 1
 n = 10
